@@ -1,0 +1,4 @@
+BATCH_SIZE = 64
+EPOCHS = 5
+LEARNING_RATE = 0.001
+MODEL_PATH = 'mnist_model.pth'
